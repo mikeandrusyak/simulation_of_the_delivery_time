@@ -1,2 +1,4 @@
 .venv
 .idea
+weather_data
+.DS_Store
